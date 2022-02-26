@@ -1,1 +1,3 @@
-d
+Click Open Zoom Meetings on the dialog shown by your browser
+If you don’t see a dialog, click Launch Meeting below
+By clicking "Launch Meeting", you agree to our Terms of Service and Privacy Statement
